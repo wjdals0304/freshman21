@@ -1,13 +1,13 @@
 ### Site info:
-title: Freshman21
+title: IronMan
 tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
+author:Jung min Kim
 email: yu@lijiayu.net
 description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, theme, Freshman21"
-baseurl: "/freshman21" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://wjdals0304.github.io" # the base hostname & protocol for your site
-locale: en_US
+locale: kr
 
 ### Personal info and site tools info:
 twitter_username: yulijia
@@ -174,10 +174,10 @@ locales:
 
 Blogroll:
       - name: Freshman
-        href: http://yulijia.net/freshman
+        href: https://wjdals0304.github.io
         title: Another Jekyll blog theme
       - name: author's website
-        href: http://yulijia.net/
+        href: https://wjdals0304.github.io
         title: Lijia Yu's website
 
 
