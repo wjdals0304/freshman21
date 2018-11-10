@@ -7,7 +7,7 @@ permalink: /about/
 
 
 ### Freshman21 is a Jekyll theme.
-
+ㅎ2
 A tribute to Twenty Twelve and Twenty eleven.
 
 I like wordpress's theme Twenty Twelve and Twenty eleven very much. 
